@@ -1,2 +1,2 @@
 # OIBSIP
-Oasis Internship- Number Guessing game
+Oasis INternship- Landing page using HTML and CSS
